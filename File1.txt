@@ -3,7 +3,7 @@ Hello World!!
 
 Welcome to git..
 
+bug 1-fixed
 
-Feature 1-Login
+bug2-fixed
 
-Feature 1-Logout
