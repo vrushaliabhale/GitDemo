@@ -4,8 +4,13 @@ Hello World!!
 Welcome to git..
 
 
+
 Feature 1-Login-updated by member for checking 3 way merging 
 
 Feature 1-Logout
 
 bug1-fixed
+
+bug2-fixed
+
+
