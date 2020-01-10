@@ -3,12 +3,14 @@ Hello World!!
 
 Welcome to git..
 
-
+file to created
 
 Feature 1-Login-updated by member for checking 3 way merging 
 
 Feature 2-Logout
 
+feature 4-to test the change from remote
 
 chande added for rebase test
 
+welcome
